@@ -20,6 +20,10 @@ You will need python 3
 `pip install -r requirements.txt`
 
 If you use other libraries to generate a plot you can add those to this file.
+For example, since we are using `deepchecks` then install that using
+
+`pip install deepchecks` then you will be able to plot using deepchecks.
+
 
 ## Writing plot
 
