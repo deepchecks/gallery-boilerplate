@@ -37,4 +37,4 @@ Edit `source/plot/plot_test.py`
 
 If you have `nginx` or `apache` running with root `/var/www` then do
 
-`cp -r build/html/* /var/www` and hit `http://localhost/` you will see gallery thumbnail.
+`cp -r build/html/* /var/www` and hit `http://localhost/`__ you will see gallery thumbnail.
