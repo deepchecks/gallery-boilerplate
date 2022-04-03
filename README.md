@@ -35,6 +35,6 @@ Edit `source/plot/plot_test.py`
 
 ## Copy files to webserver
 
-If you have `nginx` running with root `/var/www` then do
+If you have `nginx` or `apache` running with root `/var/www` then do
 
 `cp -r build/html/* /var/www` and hit `http://localhost/` you will see gallery thumbnail.
