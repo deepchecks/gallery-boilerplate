@@ -19,6 +19,8 @@ You will need python 3
 
 `pip install -r requirements.txt`
 
+If you use other libraries to generate a plot you can add those to this file.
+
 ## Writing plot
 
 Edit `source/plot/plot_test.py`
