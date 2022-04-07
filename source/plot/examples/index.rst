@@ -10,6 +10,27 @@ Plots
 
 .. raw:: html
 
+    <div class="sphx-glr-thumbcontainer" tooltip="Model Error Analysis">
+
+.. only:: html
+
+ .. figure:: /plot/examples/images/thumb/sphx_glr_plot_model_error_thumb.png
+     :alt: Model Error Analysis
+
+     :ref:`sphx_glr_plot_examples_plot_model_error.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   /plot/examples/plot_model_error
+
+.. raw:: html
+
     <div class="sphx-glr-thumbcontainer" tooltip="Sphinx-Gallery supports examples made with the `plotly library &lt;https://plotly.com/python/&gt;`_. ...">
 
 .. only:: html
