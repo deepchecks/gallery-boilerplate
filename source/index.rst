@@ -11,6 +11,7 @@ Welcome to gallery-boilerplate's documentation!
    :caption: Contents:
 
    plot/examples/index
+   rst_test
 
 
 
