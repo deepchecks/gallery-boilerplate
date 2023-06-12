@@ -35,7 +35,7 @@ extensions = [
     # thumbnail galleries. Link to the doc - https://nbsphinx.readthedocs.io/en/0.8.7/subdir/gallery.html
     #
     'sphinx_gallery.load_style',
-    #
+    'sphinx.ext.doctest',
     'sphinx_gallery.gen_gallery',
     'numpydoc',
     'sphinx.ext.autodoc',
